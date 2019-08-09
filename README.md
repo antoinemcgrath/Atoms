@@ -31,4 +31,4 @@ Comments, critiques, need help? Contact me [![alt text][6.3]][3]  [![alt text][1
 [6.3]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3]: https://github.com/antoinemcgrath
 
-[8.8]: https://imgur.com/a/Aqobenm  (Atoms icon)
+[8.8]: https://i.imgur.com/ccAuPNO.png (Atoms icon)
